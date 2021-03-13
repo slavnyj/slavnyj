@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alexandr
+### Hi there 👋, my name is Alexandr!
 #### I am OracleDBA and DevOps engeneer
 I work in the coolest fintech company in Kazakhstan.
 
